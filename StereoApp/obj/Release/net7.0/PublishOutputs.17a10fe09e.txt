@@ -1,0 +1,7 @@
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/StereoApp
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/StereoApp.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/StereoApp.deps.json
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/StereoApp.runtimeconfig.json
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Release/net7.0/PubTmp/Out/StereoApp.pdb

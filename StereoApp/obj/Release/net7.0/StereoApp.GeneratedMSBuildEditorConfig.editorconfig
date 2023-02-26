@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StereoApp
+build_property.RootNamespace = StereoApp
+build_property.ProjectDir = /Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Home/Amplifiers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BbXBsaWZpZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Home/Bookshelves.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Cb29rc2hlbHZlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Home/CDPlayers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DRFBsYXllcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ib21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Home/Subwoofers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWJ3b29mZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Home/Towers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ub3dlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-urit8zh5rm

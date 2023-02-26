@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{C77D7140-57E5-484D-972B-C790A08700D4}|http">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StereoApp FirstBuild="True" PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.ItemProperties.StereoApp PreferredExecutionTarget="/Applications/Firefox.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
