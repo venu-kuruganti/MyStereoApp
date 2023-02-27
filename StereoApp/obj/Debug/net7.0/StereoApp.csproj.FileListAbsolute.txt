@@ -29,3 +29,14 @@
 /Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Debug/net7.0/StereoApp.pdb
 /Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Debug/net7.0/StereoApp.genruntimeconfig.cache
 /Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Debug/net7.0/ref/StereoApp.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Azure.Core.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Azure.Storage.Blobs.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Azure.Storage.Common.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Microsoft.Azure.KeyVault.Core.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Microsoft.Azure.Storage.Blob.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Microsoft.Azure.Storage.Common.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/System.IO.Hashing.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/venukuruganti/Documents/Personal Projects/StereoApp/StereoApp/obj/Debug/net7.0/StereoApp.csproj.CopyComplete
